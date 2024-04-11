@@ -1,0 +1,18 @@
+{
+  "name": "45questions",
+  "version": "1.0.0",
+  "description": "This is my practice file for 45 question assignment",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "M Yousif Channa",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  },
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  }
+}
