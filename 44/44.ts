@@ -34,7 +34,6 @@ function sandwiches(...items_in_sw: string[]) {
     "\n------------------------------------------------"
   );
 }
-
 sandwiches("Onion", "chicken", "mayonaise");
 sandwiches("kabab", "lettuce", "cucumber", "Ketchup");
 sandwiches("chichen spread");
